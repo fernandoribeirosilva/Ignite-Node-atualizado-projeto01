@@ -1,1 +1,16 @@
-{"user":[{"id":"5b467c7e-dcbf-4b18-a178-4fe36fdf4749","name":"John Doe","email":"johnDoe@gmail.com"}]}
+{
+  "user": [
+    {
+      "id": "6c1a7cd7-fccb-464f-8c55-b75c942c184d",
+      "name": "John Doe",
+      "email": "johnDoe@gmail.com"
+    }
+  ],
+  "users": [
+    {
+      "id": "a013eb6e-d529-4525-ab7c-e1e02c2fc4f0",
+      "name": "John Doe",
+      "email": "johnDoe@gmail.com"
+    }
+  ]
+}
